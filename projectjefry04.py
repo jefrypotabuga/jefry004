@@ -63,7 +63,7 @@ tk.Button(frame, text='=', width=5, height=2,
           command=equalpress).grid(row=4, column=3)
 
 # Tombol Clear
-tk.Button(root, text='Clear', height=2,
+tk.Button(root, text='Hapus', height=2,
           font=("Arial",12),
           bg="tomato",
           command=clear).pack(fill="both", padx=10, pady=5)
