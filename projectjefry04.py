@@ -65,7 +65,7 @@ tk.Button(frame, text='=', width=5, height=2,
 # Tombol Clear
 tk.Button(root, text='Hapus', height=2,
           font=("Arial",12),
-          bg="tomato",
+          bg="yellow",
           command=clear).pack(fill="both", padx=10, pady=5)
 #abcd
 
